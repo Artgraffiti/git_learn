@@ -1,5 +1,8 @@
+from app import printing_msg
+
+
 def main():
-	pass
+	printing_msg()
 
 if __name__ == "__main__":
 	main()
