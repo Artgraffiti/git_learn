@@ -1,5 +1,3 @@
-from app import foo
-
 print("wat")
 
 
